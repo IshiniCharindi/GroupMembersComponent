@@ -6,22 +6,22 @@ function GroupMembers() {
         {
             name: 'Sophia Bennett',
             title: 'Hacking Specialist',
-            imageUrl: '/images/team/sophia.jpg',
+            imageUrl: "/1.JPG",
         },
         {
             name: 'Darrell Steward',
             title: 'Attack Specialist',
-            imageUrl: '/images/team/darrell.jpg',
+            imageUrl: "/2.JPG",
         },
         {
             name: 'Ava Mitchell',
             title: 'Cyber Expert',
-            imageUrl: '/images/team/ava.jpg',
+            imageUrl: "/3.JPG",
         },
         {
             name: 'Ethan Carter',
             title: 'Penetration Tester',
-            imageUrl: '/images/team/ethan.jpg',
+            imageUrl: "/4.JPG",
         },
     ];
     return (
